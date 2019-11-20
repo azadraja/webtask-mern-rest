@@ -16,7 +16,7 @@
   "dependencies": {
     "body-parser": "^1.18.1",
     "express": "^4.15.4",
-    "mongoose": "^4.11.11",
+    "mongoose": ">=5.7.5"
     "webtask-tools": "^3.2.0"
   }
 }
